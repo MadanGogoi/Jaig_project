@@ -1,0 +1,1 @@
+<a href="{{ url($crud->route.'/'.$entry->getKey().'/technique_compliance/') }}" class="btn btn-xs btn-default" data-button-type="get"><i class="fa fa-times-circle"></i> View Technique vs Compliance</a>	

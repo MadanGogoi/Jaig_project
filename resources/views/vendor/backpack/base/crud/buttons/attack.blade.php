@@ -1,0 +1,1 @@
+<a href="{{ url($crud->route.'/'.$entry->getKey().'/attack/') }}" class="btn btn-xs btn-default" data-button-type="get"><i class="fa fa-times-circle"></i> View Attack</a>
